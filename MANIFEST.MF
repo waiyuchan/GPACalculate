@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: gpa.window.Window
+Class-Path: /Users/weiyu/文件/开发/poi-3.17/poi-3.17.jar /Users/weiyu/文件/开发/poi-3.17/poi-excelant-3.17.jar 
+  /Users/weiyu/文件/开发/poi-3.17/poi-ooxml-3.17.jar /Users/weiyu/文件/开发/poi-3.17/poi-ooxml-schemas-3.17.jar 
+  /Users/weiyu/文件/开发/poi-3.17/ooxml-lib/curvesapi-1.04.jar /Users/weiyu/文件/开发/poi-3.17/ooxml-lib/xmlbeans-2.6.0.jar 
+  /Users/weiyu/文件/开发/poi-3.17/lib/commons-codec-1.10.jar /Users/weiyu/文件/开发/poi-3.17/lib/commons-collections4-4.1.jar 
+  /Users/weiyu/文件/开发/poi-3.17/lib/commons-logging-1.2.jar /Users/weiyu/文件/开发/poi-3.17/lib/junit-4.12.jar 
+  /Users/weiyu/文件/开发/poi-3.17/lib/log4j-1.2.17.jar
+Created-By: Chen Weiyu
